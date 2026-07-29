@@ -1,2 +1,2 @@
-# CP---algorithms-and-implementations
+# CP-algorithms-and-implementations
 known and niche algorithms implementations
